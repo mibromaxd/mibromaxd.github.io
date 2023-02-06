@@ -1,0 +1,21 @@
+body{ 
+    
+background-color:#c0c0c0;
+
+}
+
+h1{
+margin: 25px 30px;
+padding: 10PX 20px;
+ border:50px;
+ text-align: center;
+}
+
+video{
+background-position: none;
+overflow: hidden;
+text-align: -webkit-center;
+margin: auto;
+text-align: -webkit-center;
+
+}
